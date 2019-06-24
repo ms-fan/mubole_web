@@ -1,6 +1,7 @@
 <template>
 	<div class="p_index">
-		首页
+		<!-- 首页 -->
+		
 	</div>
 </template>
 

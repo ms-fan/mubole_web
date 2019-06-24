@@ -4,16 +4,14 @@ import index from '@/components/pc/index'
 Vue.use(Router)
 
 let router = new Router({
-	routes: [
-		{
-			path: '/',
-			redirect: '/index',
-		},{
-			path: '/index',
-			name: 'index',
-			component: index,
-		}
-	]
+	routes: [{
+		path: '/',
+		redirect: '/index',
+	}, {
+		path: '/index',
+		name: 'index',
+		component: index,
+	}]
 })
 
 /**
