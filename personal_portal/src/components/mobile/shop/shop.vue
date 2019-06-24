@@ -15,6 +15,7 @@
 		div{
 			margin-top: 50%;
 			color: #00A862
+			border:1px solid transparent;
 		}
 		// margin-top: 200px;
 	}
