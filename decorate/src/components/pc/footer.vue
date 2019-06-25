@@ -17,12 +17,27 @@
 						<el-row>
 							<el-col :span='4'>
 								<div>关于我们</div>
+								<div>xxxxxx</div>
+								<div>xxxxxx</div>
+								<div>xxxxxx</div>
+								<div>xxxxxx</div>
+								<div>xxxxxx</div>
 							</el-col>
 							<el-col :span='4'>
 								<div>品牌优势</div>
+								<div>xxxxxx</div>
+								<div>xxxxxx</div>
+								<div>xxxxxx</div>
+								<div>xxxxxx</div>
+								<div>xxxxxx</div>
 							</el-col>
 							<el-col :span='4'>
 								<div>十大新材料</div>
+								<div>xxxxxx</div>
+								<div>xxxxxx</div>
+								<div>xxxxxx</div>
+								<div>xxxxxx</div>
+								<div>xxxxxx</div>
 							</el-col>
 							<el-col :span='4'>
 								<div>战略合作</div>
@@ -32,6 +47,7 @@
 							</el-col>
 							<el-col :span='4'>
 								<div>联系我们</div>
+								<div></div>
 							</el-col>
 						</el-row>
 					</el-col>
