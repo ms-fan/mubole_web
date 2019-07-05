@@ -1,9 +1,0 @@
-1/https://www.jianshu.com/p/72d911b6d61d ----- axios请求封装
-2/https://blog.csdn.net/qq_39588818/article/details/80093949----vue-cli嵌套路由
-3/https://www.jianshu.com/p/94e146f6be66----vue-router的钩子函数
-4/https://www.cnblogs.com/zjwxy/p/9197627.html----axios请求拦截
-5/https://blog.csdn.net/sinat_19327991/article/details/80510575--跨域
-6/https://blog.csdn.net/qq_36111804/article/details/80885523---地图收索
-7/https://elemefe.github.io/vue-amap/#/zh-cn/base/amap----调用高德地图
-8/https://github.com/Nogive/vue-amap----vue2.x +vue-amap 使用高德地图小案例 包含 定位 拖拽选点 搜索 等小案例
-9/https://blog.csdn.net/weixin_41767649/article/details/79986756-----vue 下配置标题栏 title 图标及文字
