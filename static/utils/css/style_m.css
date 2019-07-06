@@ -1,0 +1,572 @@
+﻿/*最大768px*/
+@media (max-width: 768px) {
+.hidden-l {
+	display: none !important;
+}
+.hidden-g {
+	display: block;
+}
+/*banner*/
+.banner2 {
+	height: 180px;
+	background-position: center;
+	background-attachment: inherit;
+	background-size: cover;
+}
+/*com-nav*/
+.com-nav {
+	padding: 30px 0;
+}
+.com-nav ul li {
+	margin-bottom: 10px;
+}
+.com-nav ul li img {
+	width: 100%;
+}
+/*main-title*/
+.main-title {
+	padding-bottom: 2px;
+	padding-top: 25px;
+	margin-bottom: 30px;
+}
+.main-title b {
+	font-size: 20px;
+}
+.main-title a {
+	border: 1px solid #fff;
+	background: none;
+}
+/*product*/
+.product .pro-list li div b {
+	font-size: 12px;
+}
+/*company*/
+.company {
+	padding: 30px 0;
+	margin: 30px 0 30px 0;
+}
+.company h4 {
+	margin-bottom: 20px;
+}
+.company h4 span {
+	font-size: 30px;
+}
+.company .container > span {
+	margin-bottom: 25px;
+}
+/*product*/
+.product .col-xs-12 {
+	padding: 0;
+}
+.product .pro-list li {
+	padding: 0 6px;
+}
+.product .pro-list li div i {
+	right: 5px;
+}
+/*adv*/
+.adv .adv-txt h4 {
+	text-align: center;
+	float: none;
+	margin-bottom: 20px;
+}
+.adv .adv-txt h4 span {
+	font-size: 35px;
+}
+.adv .adv-txt h4 small {
+	font-size: 25px;
+	line-height: 24px;
+}
+.adv .adv-txt ul li {
+	margin-bottom: 30px;
+}
+.adv {
+	background: url("../img/advbg.jpg") right center;
+	height: 800px;
+	background-size: cover;
+}
+.adv .adv-txt {
+	width: 100%;
+	margin-top: 20px;
+}
+.adv .adv-txt a {
+	float: none;
+	margin: 0 auto;
+}
+/*friend*/
+.friend .friend-right {
+	padding-bottom: 23px;
+}
+.friend .friend-right .friend-list {
+	position: relative;
+	padding-top: 20px;
+}
+.friend .friend-right .friend-list li {
+	margin: 5px 0;
+	padding: 0 2px;
+}
+.friend .main-title a {
+	border: 1px solid #fff;
+	background: none;
+	color: #333;
+}
+/*time*/
+.indexcoo .list li {
+	width: 50%;
+	margin-bottom: 8px;
+}
+.indexcoo .list li:last-child {
+	margin-left: auto;
+	margin-right: auto;
+	float: none;
+	width: 100%;
+}
+.indexcoo {
+	padding: 25px 0;
+}
+/*news*/
+.news {
+	padding: 30px 0;
+}
+.news h4 {
+	margin-bottom: 20px;
+}
+.news h4 span {
+	font-size: 30px;
+}
+.news h4 b {
+	font-size: 25px;
+	margin-top: 2px;
+}
+/*footer*/
+footer {
+	padding-top: 0;
+}
+.f-bottom2 {
+	line-height: 35px;
+	text-align: center;
+}
+/*i-company*/
+.info-title {
+	padding: 30px 0 20px 0;
+}
+.info-title span {
+	font-size: 25px;
+}
+.info-nav ul li {
+	line-height: 50px;
+}
+.info-nav ul li a {
+	font-size: 14px;
+}
+.info-nav {
+	margin-top: -25px;
+}
+.i-company .time {
+	width: 100%;
+}
+.i-company img {
+	width: 100% !important;
+	height: auto !important;
+	margin: 0 1%;
+	display: block;
+	float: left;
+}
+.indexcoo .list li .text {
+	font-size: 12px;
+	line-height: 20px;
+	margin-top: 5px;
+}
+.i-company .time .indexcoo .list li .num p span {
+	font-size: 40px;
+}
+.indexcoo .list li:last-child {
+	margin: 0;
+}
+/*i-brand*/
+.i-brand ul li {
+	height: auto;
+	margin-bottom: 15px;
+}
+.i-brand ul li p b {
+	margin-bottom: 15px;
+	font-size: 16px;
+}
+.i-brand ul li p small {
+	line-height: 25px;
+}
+.i-brand ul li p {
+	width: 100%;
+	float: none !important;
+	padding: 20px;
+}
+.i-brand ul li div {
+	width: 100%;
+	float: none !important;
+	padding-bottom: 10px;
+}
+.i-brand ul li div b {
+	font-size: 20px;
+	padding-top: 10px;
+}
+.i-brand ul li div small {
+	font-size: 18px;
+}
+.i-brand ul li div img {
+	height: 90%;
+}
+/*i-honor*/
+.items--small .item {
+	width: 45%;
+}
+/*i-product*/
+.i-product .pro-type li {
+	margin-bottom: 45px;
+	position: relative;
+}
+.i-product .pro-type li div b {
+	font-size: 18px;
+}
+.i-product .pro-type li p {
+	display: none;
+}
+.i-product .pro-type li div a {
+	line-height: 30px;
+	margin-top: 15px;
+}
+.i-product .info-title {
+	padding: 25px 0;
+}
+.i-product .pro-list li {
+	padding: 0 5px;
+}
+.i-product-content {
+	padding: 0;
+}
+/*i-join*/
+.i-join .join-list li {
+	width: 100%;
+}
+.i-join .i-j-top div,  .i-join .join-list li div {
+	width: 100%;
+	float: none;
+	clear: both;
+}
+.i-join .i-j-top img,  .i-join .join-list li img {
+	max-width: 60%;
+	width: auto;
+	float: none;
+}
+.i-join .i-j-top div ul {
+	margin-top: 25px;
+}
+.i-join .i-j-top div b,  .i-join .join-list li div > b {
+	font-size: 20px;
+	margin-bottom: 15px;
+}
+/*i-news*/
+.i-news .i-news-top .info-title {
+	float: none;
+}
+.i-news .i-news-top p a {
+	margin-left: 0;
+	margin-right: 10px;
+}
+.i-news .i-news-top p {
+	float: none;
+	margin-top: 10px;
+}
+.i-news .i-news-top p a span {
+	font-size: 12px;
+}
+.i-news .i-news-top {
+	margin-bottom: 20px;
+}
+.i-news .i-news-top .info-title {
+	float: none;
+	padding-bottom: 10px;
+}
+.i-news .news-list li .news-list-r {
+	width: 100%;
+	padding: 15px;
+}
+.i-news .news-list li .news-list-r b {
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+.i-news .news-list li .news-list-r small {
+	font-size: 12px;
+	line-height: 20px;
+}
+.i-news .news-list li .news-list-r span {
+	margin-top: 10px;
+}
+.i-news .news-list li .news-list-r span {
+	width: 92px;
+	line-height: 28px;
+}
+/*i-case*/
+.case-list li {
+	margin-bottom: 30px;
+	padding: 0 10px;
+}
+.case-list li a>small {
+	line-height: 35px;
+}
+/*i-contact*/
+.i-contact .i-contact-ul {
+	display: block;
+	margin-bottom: 30px;
+}
+.i-contact .i-contact-ul li i {
+	width: 60px;
+	height: 60px;
+	line-height: 60px;
+	font-size: 30px;
+}
+.i-contact .i-contact-ul li:first-child p {
+	width: 75%;
+}
+.i-contact .i-contact-ul li {
+	overflow: hidden;
+	margin-bottom: 12px;
+}
+/*i-message*/
+.i-message {
+	padding-bottom: 40px;
+}
+.i-message img {
+	float: none;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 25px;
+	max-width: 100%;
+	width: auto;
+}
+.i-message .mes-r {
+	width: 100%;
+	float: none;
+	padding-left: 0;
+}
+.n_left {
+	width: 100%;
+	float: none;
+}
+#allmap {
+	height: 260px !important;
+}
+.case-list li a > small {
+	font-size: 12px;
+}
+}
+
+/*768px至992px*/
+@media (min-width: 768px) and (max-width: 992px) {
+.hidden-l {
+	display: none !important;
+}
+.hidden-g {
+	display: block;
+}
+/*com-nav*/
+.com-nav {
+	padding: 40px 0;
+}
+.com-nav ul li div {
+	left: 21px;
+	top: 17px;
+}
+/*product*/
+.product .pro-list li div b {
+	font-size: 12px;
+}
+/*.news ul li p*/
+.news ul li p img {
+	width: 210px;
+	height: 132px;
+}
+/*adv*/
+.adv {
+	background: url("../img/advbg.jpg") 80% center;
+	height: 800px;
+	background-size: cover;
+}
+.adv .adv-txt {
+	width: 80%;
+}
+.adv .adv-txt ul li {
+	margin-bottom: 30px;
+}
+/*friend*/
+.friend .friend-right {
+	height: 191px;
+}
+/*footer*/
+footer .f-center .f-l ul li {
+	margin-right: 35px;
+}
+/*i-company*/
+.info-title {
+	padding: 30px 0 20px 0;
+}
+/*i-brand*/
+.i-brand ul li p {
+	padding: 30px 20px;
+}
+.i-brand ul li div img {
+	right: 15px;
+	height: 70%;
+}
+/*i-product*/
+.i-product .pro-type li p {
+	display: none;
+}
+/*i-news*/
+.i-news .i-news-top {
+	margin-bottom: 20px;
+}
+.i-news .i-news-top .info-title {
+	float: none;
+	padding-bottom: 10px;
+}
+.i-news .i-news-top p a {
+	margin-left: 0;
+	margin-right: 15px;
+}
+.i-news .i-news-top p {
+	float: none;
+	margin-top: 10px;
+}
+.i-news .news-list li .news-list-r {
+	height: 200px;
+	padding: 25px 15px;
+}
+.i-news .news-list li .news-list-l {
+	height: 200px;
+}
+.i-news .news-list li .news-list-l i {
+	margin-top: 15px;
+}
+.i-news .news-list li .news-list-r span {
+	margin-top: 15px;
+}
+/*i-case*/
+.case-list li {
+	margin-bottom: 30px;
+}
+.case-list li a>small {
+	line-height: 35px;
+}
+/*i-contact*/
+.i-contact .i-contact-ul li i {
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.i-contact .i-contact-ul li p b {
+	text-align: center;
+	margin-top: 10px;
+}
+/*i-message*/
+.i-message img {
+	float: none;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 25px;
+}
+.i-message .mes-r {
+	width: 100%;
+	float: none;
+}
+}
+
+/*992px至1200pox*/
+@media (min-width: 992px) and (max-width: 1200px) {
+.hidden-l {
+	display: block;
+}
+.hidden-g {
+	display: none !important;
+}
+.main-title:after {
+	font-size: 5rem;
+	top: 59px;
+}
+/*product*/
+.product .pro-list li div b {
+	font-size: 14px;
+}
+/*.news ul li p*/
+.news ul li p img {
+	width: 283px;
+	height: 179px;
+}
+/*adv*/
+.adv .adv-txt {
+	width: 50%;
+}
+/*friend*/
+.friend .friend-right {
+	height: 249px;
+}
+/*i-product*/
+.i-product .pro-type li p {
+	height: 135px;
+}
+.i-product .pro-type li div small {
+	margin: 0;
+}
+/*i-news*/
+.i-news .news-list li .news-list-r {
+	height: 219px;
+}
+.i-news .news-list li .news-list-l {
+	height: 219px;
+}
+.i-news .news-list li .news-list-r span {
+	margin-top: 15px;
+}
+/*i-message*/
+.i-message .mes-r form textarea {
+	height: 88px;
+}
+}
+
+/*最小1200px*/
+@media (min-width: 1200px) {
+.hidden-l {
+	display: block;
+}
+.hidden-g {
+	display: none !important;
+}
+/*.news ul li p*/
+.news ul li p img {
+	width: 350px;
+	height: 211px;
+}
+/*friend*/
+.friend .friend-right {
+	height: 302px;
+}
+/*i-product*/
+.i-product .pro-type li p {
+	height: 169px;
+}
+/*i-news*/
+.i-news .news-list li .news-list-r {
+	height: 219px;
+}
+.i-news .news-list li .news-list-l {
+	height: 219px;
+}
+/*i-message*/
+.i-message .mes-r form textarea {
+	height: 150px;
+}
+}

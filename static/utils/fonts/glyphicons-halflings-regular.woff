@@ -1,0 +1,146 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>404页面未找到</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<style>
+* {
+	padding:0;
+	margin:0;
+}
+body {
+	font-family: '微软雅黑', Arial, 'Trebuchet MS', Verdana, '宋体';
+	font-size:14px;
+	color: #666;
+}
+.wrap {
+	width:1000px;
+	text-align:center;
+	margin:0 auto;
+}
+.Style2009 {
+	text-align:left;
+	background:url(http://admin.07551.com/skin/404bg.jpg) no-repeat left top;
+	height:768px;
+}
+img {
+	border:0;
+}
+h1 {
+	font-size:40px;
+	color:#015f9c;
+	font-weight:normal;
+}
+.info {
+	text-align:center;
+	padding:100px 0 5px 0;
+	border-bottom:1px solid #e4e4e4;
+}
+.btn {
+	padding:25px;
+}
+.btn a {
+	background:#015f9c;
+	color:#fff;
+	display:inline-block;
+	padding:8px 15px;
+	text-decoration:none;
+	font-size:16px;
+	font-weight:bold;
+	border-radius:3px;
+	margin:0 10px;
+}
+ul, dl {
+	list-style:none;
+}
+.sitemap {
+	padding:25px 0 20px 30px;
+	overflow:hidden;
+	zoom:1;
+}
+dt {
+	font-weight: bold;
+	line-height: 28px;
+	font-size:16px;
+	color:#0a609d;
+}
+dt a {
+	color: #06C;
+	text-decoration:none;
+}
+dt a:hover {
+	text-decoration:underline;
+}
+dl {
+	float:left;
+	width:470px;
+}
+ul li a {
+	font-size:12px;
+	text-decoration:none;
+	padding:5px 10px;
+	color:#666;
+}
+ul li a:hover {
+	background:#015f9c;
+	padding:5px 10px;
+	color:#fff;
+}
+ul li {
+	float: left;
+	line-height:28px;
+}
+dl.left {
+	margin-right:20px;
+}
+.patop {
+	padding:0 0 15px 0;
+	overflow:hidden;
+	zoom:1;
+}
+.wid100 {
+	width:100px;
+}
+.wid80{ width:70px;}
+#DomainFlash{ margin:0 auto; text-align:center; padding:20px 0 20px 0;}
+.text{ text-align:left; line-height:25px; padding-bottom:10px; padding-left:150px;}
+.red{ color:red;}
+.img404{background:url(http://admin.07551.com/skin/404img.jpg) no-repeat 110px bottom; height:76px; line-height:76px; text-indent:175px;}
+.copyright{ text-align:center; padding-bottom:45px;}
+</style>
+<script><!--
+var rc=404;
+//-->
+</script>
+</head>
+<body id="thrColEls">
+<div class="wrap">
+  <div class="Style2009">
+    <div class="info">
+      <div class="img404"><h1>很抱歉！没有找到您要访问的页面！</h1></div>
+    
+      <p class="btn"><a href="/">返回首页</a> <a href="#" >通知网站管理员</a></p>
+        <p class="text">The requested URL was not found on this server.<br />
+确保浏览器的地址栏中显示的网站地址的拼写和格式正确无误。<br />
+如果通过单击链接而到达了该网页，请与网站管理员联系，通知我们该链接的格式不正确。<br />
+单击<a href="javascript:void();" style="text-decoration:none;" onclick="javascript:history.back(1)"><span class="red">后退</span></a>按钮尝试另一个链接。<br />
+您可以尝试访问以下链接：</p>
+
+    </div>
+    <div id="DomainFlash"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="scriptmain" name="scriptmain" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="526" height="386">
+				    <param name="movie" value="http://www.07551.com/work/buy/focus2.swf?bcastr_xml_url=http://www.07551.com/work/buy/flash.xml" />
+				    <param name="quality" value="high" />
+				    <param name="scale" value="noscale" />
+				    <param name="loop" value="false" />
+				    <param name="menu" value="false" />
+				    <param name="wmode" value="transparent" />
+<embed src="http://www.07551.com/work/buy/focus2.swf?bcastr_xml_url=http://www.07551.com/work/buy/flash.xml" width="526" height="386" loop="False" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" salign="T" name="scriptmain" menu="false" wmode="transparent"></embed></object></div>
+   
+  </div>
+</div>
+</div>
+<div style="display:none;"><script language="javascript" type="text/javascript" src="http://js.users.51.la/8906565.js"></script>
+<noscript><a href="http://www.51.la/?8906565" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="http://img.users.51.la/8906565.asp" style="border:none" /></a></noscript></div>
+</body>
+</html>
