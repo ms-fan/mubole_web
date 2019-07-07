@@ -231,6 +231,9 @@
 </template>
 
 <script>
+	import {
+		index
+	} from '@/request/api'; // 导入我们的api接口
 	export default {
 		name: '',
 
@@ -244,7 +247,7 @@
 
 		data() {
 			return {
-				imgs:[
+				imgs: [
 					'/static/utils/uploads/allimg/180225/1-1P2251121280-L.jpg',
 					'/static/utils/uploads/allimg/180225/1-1P2251121150-L.jpg',
 					'/static/utils/uploads/allimg/180225/1-1P2251121000-L.jpg'
@@ -256,7 +259,18 @@
 
 		watch: {},
 
-		created() {},
+		created() {
+			// 接口测试
+			index({
+				type: 0,
+				sort: 1
+			}).then(res => {
+				console.log(res)
+			}).catch(err => {
+				console.log(err)
+			});
+
+		},
 
 		mounted() {},
 
@@ -272,7 +286,7 @@
 </script>
 
 <style lang="less">
-   .el-carousel__container{
-	   height:43rem;
-   }
+	.el-carousel__container {
+		height: 43rem;
+	}
 </style>
