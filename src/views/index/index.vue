@@ -2,13 +2,11 @@
 	<div class="index">
 		<div class="banner">
 			<!-- Swiper -->
-			<div class="swiper-container1">
-				<el-carousel indicator-position="outside">
-					<el-carousel-item v-for="item in imgs" :key="item">
-						<div class="swiper-slide"><img :src="item" alt="幻灯三" class="img-responsive" /></div>
-					</el-carousel-item>
-				</el-carousel>
-			</div>
+			<el-carousel indicator-position="outside" height="38rem">
+				<el-carousel-item v-for="item in imgs" :key="item">
+					<el-image style="width: 100%; height: 100%" :src="item" fit="cover"></el-image>
+				</el-carousel-item>
+			</el-carousel>
 		</div>
 		</header>
 		<div class="hot-search hidden-l">
@@ -286,7 +284,5 @@
 </script>
 
 <style lang="less">
-	.el-carousel__container {
-		height: 43rem;
-	}
+
 </style>
