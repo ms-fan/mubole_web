@@ -7,22 +7,22 @@
 					<ul class="i-contact-ul">
 						<div class="contact-boxss">
 							<p>
-								&nbsp; 电话:010-57889833</p>
+								&nbsp; 电话:151 8015 1127</p>
 							<p>
-								&nbsp;&nbsp;传真：010-57889843</p>
+								&nbsp;&nbsp;传真：</p>
 							<p>
-								&nbsp;&nbsp;网址：</p>
+								&nbsp;&nbsp;网址：www.mubole.top</p>
 							<p>
-								&nbsp;&nbsp;电子邮箱：bianyaqivip@126.com</p>
+								&nbsp;&nbsp;电子邮箱：fanmanfu@126.com</p>
 							<p>
-								&nbsp;&nbsp;地址：北京市海淀区国际大厦CBD</p>
+								&nbsp;&nbsp;地址：江西省九江市修水县</p>
 							<p>
 								&nbsp;</p>
 						</div>
 
 
 					</ul>
-					
+
 					<!-- //地图 -->
 					<div id="map">
 						<el-amap vid='amapDemo'></el-amap>

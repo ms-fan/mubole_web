@@ -48,8 +48,8 @@
 					</div>
 				</div>
 			</div>
-			<p class="f-bottom2 visible-xs"> Copyright &copy; 2018-2019 木伯乐全屋定制有限公司 版权所有 <a href="#" target="_blank">赣ICP备19007009号
-				</a><span><a href="#" target="_blank">【源码商城】</a></span> </p>
+			<p class="f-bottom2 visible-xs"> Copyright &copy; 2018-2020 木伯乐全屋定制有限公司 版权所有 <a href="#" target="_blank">赣ICP备19007009号
+				</a><span><a href="#" target="_blank"></a></span> </p>
 		</footer>
 	</div>
 </template>
