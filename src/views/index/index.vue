@@ -83,7 +83,7 @@
 				<div class="container">
 					<h4> <small class="wow fadeInUpSmall">ABOUT</small> <span class="wow fadeInUpSmall" data-wow-delay="0..2s">关于我们</span>
 					</h4>
-					<span class="wow fadeInUpSmall">广东某某机电制造有限公司成立于2003年，位于广东省广州市，占地面积约10亩，厂房面积约3500平方米，拥有卷板机、剪板机、折边机、埋弧自动焊机、CO2气体保护焊机、氩弧焊机、车床、摇臂钻床、自动调心翻转架等先进机械生产加工设备，目前最大起重能力为25吨，设计最大起重能力为36吨，是以铝融解炉，环保设备、水处理设备制造安装为主，其他化工配套设备，管道制造安装为辅的新兴企业，公司注册资本为300万元人民币，总资产约1000万元，现有职工180人，各类专业技术及管理人员
+					<span class="wow fadeInUpSmall">Treezo是千年舟的国际识别名称，Treezo具有“绿色地带”之意，专门设计的字型嵌入舟型图案，犹如一枚木刻印信。标识造型方圆并济，内敛而不保守，发展而不张扬，形成千年舟独特的标识符号。深绿色图形，金色文字，开启了千年舟“自然、经典、永恒”的家居图腾文化
 						...</span>
 					<ul class="hidden-xs">
 						<li class="wow fadeInLeftSmall"> <a href="#"> <img src="/static/utils/uploads/180225/1-1P2251132405G.png" alt="" />
@@ -103,12 +103,12 @@
 						<h4> <span class="wow fadeInUpSmall">ADVANTAGE</span> <small class="wow fadeInUpSmall">公司优势</small> </h4>
 						<ul>
 
-							<li class="wow fadeInUpSmall"> <span><img src="/static/utils/uploads/180225/1-1P225113K01D.png" alt="" />某某涂料</span>
+							<li class="wow fadeInUpSmall"> <span><img src="/static/utils/uploads/180225/1-1P225113K01D.png" alt="" />某某材料</span>
 								<small>创立于上世纪九十年代，总部坐落于美丽的江南水乡，我公司深信基让长育之道，在于道法自然。十六年的耕耘，十年的专注，十六年的孜孜以求。</small>
 							</li>
 
 							<li class="wow fadeInUpSmall"> <span><img src="/static/utils/uploads/180225/1-1P22511395U92.png" alt="" />前沿实力</span>
-								<small>某某涂料后工业时代的环保卫士，美是我们的外表，健康是我们的内在，环保是我们的终极追求。我们一直在原有
+								<small>某某材料后工业时代的环保卫士，美是我们的外表，健康是我们的内在，环保是我们的终极追求。我们一直在原有
 									的基础上不断突破，提升自己。</small> </li>
 
 							<li class="wow fadeInUpSmall"> <span><img src="" alt="" />管理优势</span> <small>严格的市场经营管理 保护统一的终端服务体系 快捷的物流配发体系
@@ -166,18 +166,20 @@
 						<li class="col-lg-4 col-md-4 col-sm-4 col-xs-12 wow fadeInLeftSmall"> <a href="#">
 								<p> <img src="/static/utils/uploads/180225/1-1P2251H332647.jpg" alt="" class="img-responsive" /> <span>2018-02-25</span>
 								</p>
-								<div> <span>水性涂料或大展宏涂</span> <small>　水性涂料包括水溶性涂料、水稀释性涂料、水分散性涂料(乳胶涂料)3种。水性漆为无公害产品...</small> </div>
+								<div> <span>木板的介绍</span> <small>　木板就是采用完整的木材制成的木板材。这些板材坚固耐用、纹路自然，是装修中优中之选。此类板材造价高，木板一般按照板材实质名称分类，没有统一的标准规格。</small> </div>
 							</a> </li>
-						<li class="col-lg-4 col-md-4 col-sm-4 col-xs-12 wow fadeInLeftSmall"> <a href="#">
-								<p> <img src="/static/utils/uploads/180225/1-1P2251H3114H.jpg" alt="" class="img-responsive" /> <span>2018-02-25</span>
-								</p>
-								<div> <span>五月迎来家装旺季 水漆承担着重要角色</span> <small>　时至五月，到了家庭装修的旺季，五月份处于春夏交界，天气条件相对适中，装修材料不易变...</small> </div>
-							</a> </li>
+
 						<li class="col-lg-4 col-md-4 col-sm-4 col-xs-12 wow fadeInLeftSmall"> <a href="#">
 								<p> <img src="/static/utils/uploads/180225/1-1P2251H249627.jpg" alt="" class="img-responsive" /> <span>2018-02-25</span>
 								</p>
-								<div> <span>涂料与乳胶漆的区别</span> <small>　涂料与乳胶漆的区别涂料是对油漆，水性漆等装饰材料的统称，与老百姓的日常生活有直接联...</small> </div>
+								<div> <span>木板的选购</span> <small>　木板是家装中经常使用的材料，选购木板的时候，一定要看清它的纹路、纹路清晰，一般最好不要有断纹</small> </div>
 							</a> </li>
+
+            <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12 wow fadeInLeftSmall"> <a href="#">
+              <p> <img src="/static/utils/uploads/180225/1-1P2251H3114H.jpg" alt="" class="img-responsive" /> <span>2018-02-25</span>
+              </p>
+              <div> <span>8月迎来家装旺季 木板承担着重要角色</span> <small>　时至五月，到了家庭装修的旺季，五月份处于春夏交界，天气条件相对适中，装修材料不易变...</small> </div>
+            </a> </li>
 
 					</ul>
 					<a href="#">了解更多+</a>
