@@ -21,8 +21,8 @@
 		    </ul>
 		    <div class="page">
 		    <span class="pageinfo">共 <strong>1</strong>页<strong>5</strong>条记录</span>
-		
-		
+
+
 		    </div>
 		  </div>
 		</div>
@@ -36,7 +36,7 @@
 		mixins: [],
 
 		components: {
-		
+
 		},
 
 		props: {},
@@ -58,7 +58,7 @@
 		methods: {
 			handleClick: function(e) {
 				console.log(e)
-				
+
 			},
 		}
 	};

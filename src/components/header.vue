@@ -6,14 +6,12 @@
 				<div class="h-nav">
 					<div class="container">
 						<h1>
-							<router-link to='/'><img src="/static/utils/img/logo.png" alt="" /></router-link>
-						</h1>
+							<router-link to='/'><img src="/static/utils/img/logoaa.png" alt="" /></router-link>
+
+            </h1>
 						<ul>
 							<li>
 								<router-link to='/'>首页</router-link>
-							</li>
-							<li>
-								<router-link to='pinpaigushi'>品牌故事</router-link>
 							</li>
 							<li>
 								<router-link to='chanpinzhongxin'>产品中心</router-link>
@@ -22,13 +20,7 @@
 								<router-link to='gongchenganli'>工程案例</router-link></a>
 							</li>
 							<li>
-								<router-link to='xinwendongtai'>新闻动态</router-link>
-							</li>
-							<li>
 								<router-link to='zixunzhongxin'>咨询中心</router-link>
-							</li>
-							<li>
-								<router-link to='jiaruwomen'>加入我们</router-link>
 							</li>
 							<li>
 								<router-link to='lianxiwomen'>联系我们</router-link></a>
@@ -42,7 +34,7 @@
 			<!--手机导航条-->
 			<div class="hidden-g">
 				<div class="h-nav-g">
-					<h1><a href="/"><img src="/static/utils/img/logo2.png" alt="" /></a></h1>
+					<h1><a href="/"><img src="/static/utils/img/logoaa.png" alt="" /></a></h1>
 					<i class="btn_i header_btn_i"><small></small></i>
 				</div>
 				<div class="ul-small">
@@ -55,24 +47,18 @@
 						<li>
 							<router-link to='/'>首页</router-link>
 						</li>
-						<li>
-							<router-link to='pinpaigushi'>品牌故事</router-link>
-						</li>
+
 						<li>
 							<router-link to='chanpinzhongxin'>产品中心</router-link>
 						</li>
 						<li>
 							<router-link to='gongchenganli'>工程案例</router-link></a>
 						</li>
-						<li>
-							<router-link to='xinwendongtai'>新闻动态</router-link>
-						</li>
+
 						<li>
 							<router-link to='zixunzhongxin'>咨询中心</router-link>
 						</li>
-						<li>
-							<router-link to='jiaruwomen'>加入我们</router-link>
-						</li>
+
 						<li>
 							<router-link to='lianxiwomen'>联系我们</router-link></a>
 						</li>
@@ -81,7 +67,7 @@
 			</div>
 			<div v-if='$route.meta.title=="chanpinzhongxin"' class="banner2" style="background-image: url(/static/utils/img/banner1.jpg);"> </div>
 			<div v-if='$route.meta.title=="pinpaigushi"' class="banner2" style="background-image: url(/static/utils/img/timg2.jpg);"> </div>
-			<div v-if='$route.meta.title=="gongchenganli"' class="banner2" style="background-image: url(/static/utils/img/timg.jpg);"> </div>
+			<div v-if='$route.meta.title=="gongchenganli"' class="banner2" style="background-image: url(/static/utils/img/3.jpg);"> </div>
 			<div v-if='$route.meta.title=="xinwendongtai"' class="banner2" style="background-image: url(/static/utils/img/banner16.jpg);"> </div>
 			<div v-if='$route.meta.title=="zixunzhongxin"' class="banner2" style="background-image: url(/static/utils/img/banner42.jpg);"> </div>
 			<div v-if='$route.meta.title=="jiaruwomen"' class="banner2" style="background-image: url(/static/utils/img/banner5.jpg);"> </div>
