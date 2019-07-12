@@ -49,27 +49,27 @@
 					<div class="col-lg-9 col-md-9 col-sm-9 col-xs-12  wow fadeInRightSmall">
 						<ul class="pro-list">
 							<li class="col-lg-4 col-md-4 col-sm-4 col-xs-6"> <a href="#">
-									<p><img src="/static/utils/uploads/allimg/180225/1-1P2251H0240-L.jpg" alt="产品名称六" class="img-responsive" /></p>
+									<p><img src="/static/utils/uploads/gongchenganli/6.jpg" alt="产品名称六" class="img-responsive" /></p>
 									<div> <b class="hidden-xs"></b> <span>产品名称六</span> <i class="iconfont icon-arrow-right"></i> </div>
 								</a> </li>
 							<li class="col-lg-4 col-md-4 col-sm-4 col-xs-6"> <a href="#">
-									<p><img src="/static/utils/uploads/allimg/180225/1-1P2251G9400-L.jpg" alt="产品名称五" class="img-responsive" /></p>
+									<p><img src="/static/utils/uploads/gongchenganli/5.jpg" alt="产品名称五" class="img-responsive" /></p>
 									<div> <b class="hidden-xs"></b> <span>产品名称五</span> <i class="iconfont icon-arrow-right"></i> </div>
 								</a> </li>
 							<li class="col-lg-4 col-md-4 col-sm-4 col-xs-6"> <a href="#">
-									<p><img src="/static/utils/uploads/allimg/180225/1-1P2251GU90-L.jpg" alt="产品名称四" class="img-responsive" /></p>
+									<p><img src="/static/utils/uploads/gongchenganli/4.jpg" alt="产品名称四" class="img-responsive" /></p>
 									<div> <b class="hidden-xs"></b> <span>产品名称四</span> <i class="iconfont icon-arrow-right"></i> </div>
 								</a> </li>
 							<li class="col-lg-4 col-md-4 col-sm-4 col-xs-6"> <a href="#">
-									<p><img src="/static/utils/uploads/allimg/180225/1-1P2251GS40-L.jpg" alt="产品名称三" class="img-responsive" /></p>
+									<p><img src="/static/utils/uploads/gongchenganli/3.jpg" alt="产品名称三" class="img-responsive" /></p>
 									<div> <b class="hidden-xs"></b> <span>产品名称三</span> <i class="iconfont icon-arrow-right"></i> </div>
 								</a> </li>
 							<li class="col-lg-4 col-md-4 col-sm-4 col-xs-6"> <a href="#">
-									<p><img src="/static/utils/uploads/allimg/180225/1-1P2251530410-L.jpg" alt="产品名称二" class="img-responsive" /></p>
+									<p><img src="/static/utils/uploads/gongchenganli/2.jpg" alt="产品名称二" class="img-responsive" /></p>
 									<div> <b class="hidden-xs"></b> <span>产品名称二</span> <i class="iconfont icon-arrow-right"></i> </div>
 								</a> </li>
 							<li class="col-lg-4 col-md-4 col-sm-4 col-xs-6"> <a href="#">
-									<p><img src="/static/utils/uploads/allimg/180225/1-1P2251529480-L.jpg" alt="产品名称一" class="img-responsive" /></p>
+									<p><img src="/static/utils/uploads/gongchenganli/1.png" alt="产品名称一" class="img-responsive" /></p>
 									<div> <b class="hidden-xs"></b> <span>产品名称一</span> <i class="iconfont icon-arrow-right"></i> </div>
 								</a> </li>
 
