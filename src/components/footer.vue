@@ -3,13 +3,10 @@
 		<footer>
 			<div class="container hidden-xs">
 				<div class="f-top">
-					<h1><a href="/"><img src="/static/utils/img/logo.png" alt="" /></a></h1>
+					<h1><a href="/"><img src="/static/utils/img/mubole.png" alt="" /></a></h1>
 					<ul>
 						<li>
 							<router-link to='/'>首页</router-link>
-						</li>
-						<li>
-							<router-link to='pinpaigushi'>品牌故事</router-link>
 						</li>
 						<li>
 							<router-link to='chanpinzhongxin'>产品中心</router-link>
@@ -18,13 +15,7 @@
 							<router-link to='chanpinzhongxin'>工程案例</router-link></a>
 						</li>
 						<li>
-							<router-link to='xinwendongtai'>新闻动态</router-link>
-						</li>
-						<li>
 							<router-link to='zixunzhongxin'>咨询中心</router-link>
-						</li>
-						<li>
-							<router-link to='jiaruwomen'>加入我们</router-link>
 						</li>
 						<li>
 							<router-link to='lianxiwomen'>联系我们</router-link></a>
@@ -34,11 +25,11 @@
 				<div class="f-center">
 					<div class="f-l">
 						<ol>
-							<li>电话：400-680-5107</li>
-							<li>邮箱：tuliao@163.com</li>
+							<li>电话：15180151127</li>
+							<li>邮箱：fanmanfu@163.com</li>
 							<li style="clear: both;margin-right: 0"></li>
 							<li>传真：+86-010-57348001</li>
-							<li>地址：北京市海淀区国际大厦CBD</li>
+							<li>地址：江西省九江市修水县</li>
 						</ol>
 						<ul>
 							<li><a href="#"><img src="/static/utils/img/f1.png" alt="" />关于我们<i class="iconfont icon-arrow-right"></i></a></li>
