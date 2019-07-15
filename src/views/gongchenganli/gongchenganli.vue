@@ -11,7 +11,7 @@
 
           <li class="col-lg-4 col-md-4 col-sm-4 col-xs-6">
             <a href="/static/utils/uploads/gongchenganli/8.jpg">
-              <p> <img src="/static/utils/uploads/gongchenganli/7.jpg" alt="案例展示八" class=""/>
+              <p> <img src="/static/utils/uploads/gongchenganli/8.jpg" alt="案例展示八" class=""/>
                 <span><i class="iconfont icon-sousuo"></i><small>MORE+</small></span>
               </p>
               <small>案例展示八</small>
