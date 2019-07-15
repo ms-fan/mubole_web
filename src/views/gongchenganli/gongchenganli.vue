@@ -8,6 +8,15 @@
 		    </div>
 		    <ul class="case-list gallery">
 
+
+          <li class="col-lg-4 col-md-4 col-sm-4 col-xs-6">
+            <a href="/static/utils/uploads/gongchenganli/8.jpg">
+              <p> <img src="/static/utils/uploads/gongchenganli/7.jpg" alt="案例展示八" class=""/>
+                <span><i class="iconfont icon-sousuo"></i><small>MORE+</small></span>
+              </p>
+              <small>案例展示八</small>
+            </a>
+          </li>
           <li class="col-lg-4 col-md-4 col-sm-4 col-xs-6">
             <a href="/static/utils/uploads/gongchenganli/7.jpg">
               <p> <img src="/static/utils/uploads/gongchenganli/7.jpg" alt="案例展示七" class=""/>
@@ -65,7 +74,7 @@
 		        <small>案例展示一</small> </a></li>
 		    </ul>
 		    <div class="page">
-		    <span class="pageinfo">共 <strong>1</strong>页<strong>5</strong>条记录</span>
+		    <span class="pageinfo">共 <strong>1</strong>页<strong>8</strong>条记录</span>
 
 
 		    </div>

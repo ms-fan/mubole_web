@@ -29,7 +29,7 @@
 								<div> <b>关于我们</b> <small>ABOUT</small> </div>
 							</a> </li>
 						<li class="col-lg-4 col-md-4 col-sm-4 col-xs-12 wow fadeInUpSmall"> <a href="#">
-								<p><img src="/static/utils/uploads/180225/1-1P22511033R64.jpg" alt="" class="center-block img-responsive" /></p>
+								<p><img src="/static/utils/uploads/chanpinzhongxin/产品中心1.jpg" alt="" class="center-block img-responsive" /></p>
 								<div> <b>产品中心</b> <small>PRODUCT</small> </div>
 							</a> </li>
 						<li class="col-lg-4 col-md-4 col-sm-4 col-xs-12 wow fadeInUpSmall"> <a href="#">
@@ -103,12 +103,12 @@
 						<h4> <span class="wow fadeInUpSmall">ADVANTAGE</span> <small class="wow fadeInUpSmall">公司优势</small> </h4>
 						<ul>
 
-							<li class="wow fadeInUpSmall"> <span><img src="/static/utils/uploads/180225/1-1P225113K01D.png" alt="" />某某材料</span>
+							<li class="wow fadeInUpSmall"> <span><img src="/static/utils/uploads/180225/1-1P225113K01D.png" alt="" />木板材料</span>
 								<small>创立于上世纪九十年代，总部坐落于美丽的江南水乡，我公司深信基让长育之道，在于道法自然。十六年的耕耘，十年的专注，十六年的孜孜以求。</small>
 							</li>
 
 							<li class="wow fadeInUpSmall"> <span><img src="/static/utils/uploads/180225/1-1P22511395U92.png" alt="" />前沿实力</span>
-								<small>某某材料后工业时代的环保卫士，美是我们的外表，健康是我们的内在，环保是我们的终极追求。我们一直在原有
+								<small>美是我们的外表，健康是我们的内在，环保是我们的终极追求。我们一直在原有
 									的基础上不断突破，提升自己。</small> </li>
 
 							<li class="wow fadeInUpSmall"> <span><img src="" alt="" />管理优势</span> <small>严格的市场经营管理 保护统一的终端服务体系 快捷的物流配发体系
@@ -118,10 +118,10 @@
 									员工操作流程，为人类创造一个无毒、无害、绿色、环保的生产环境。</small> </li>
 
 							<li class="wow fadeInUpSmall"> <span><img src="/static/utils/uploads/180225/1-1P2251143252N.png" alt="" />产品优势</span>
-								<small>产品结构完整，适用于不同人群和工程需要。质感细腻，漆膜丰满，深层表面光滑。性价比高，由于单位涂刷面积大，施工整体成本低。</small>
+								<small>产品结构完整，适用于不同人群和工程需要。材质健康，环保等级高，性价比高，可以根据客户的多种需求为您量身打造属于您的专属衣柜，施工整体成本低。</small>
 							</li>
 
-							<li class="wow fadeInUpSmall"> <span><img src="" alt="" />全方位服务</span> <small>某某涂料将继续坚持“成就客户、员工为本、执行高效，诚信求实”的核心价值观。致力于为客户提供更加优质的服务。</small>
+							<li class="wow fadeInUpSmall"> <span><img src="" alt="" />全方位服务</span> <small>木伯乐将继续坚持“成就客户、员工为本、执行高效，诚信求实”的核心价值观。致力于为客户提供更加优质的服务。</small>
 							</li>
 
 						</ul>
@@ -163,6 +163,13 @@
 					<h4> <small class="wow fadeInUpSmall">时刻了解最新行业资讯</small> <span class="wow fadeInUpSmall" data-wow-delay="0.2s">NEWS
 							CENTER</span> <b class="wow fadeInUpSmall">新闻动态</b> </h4>
 					<ul>
+
+            <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12 wow fadeInLeftSmall"> <a href="#">
+              <p> <img src="/static/utils/uploads/xinwendongtai/环保等级.jpg" alt="" class="img-responsive" /> <span>2018-02-25</span>
+              </p>
+              <div> <span>环保等级</span> <small>　环保级别是欧洲的环保标准，分为Eo、 E1 、E2三个级别，Eo为国际标准，是非常环保的； E1 为国家级标准；E2级一般只限室外使用。</small> </div>
+            </a> </li>
+
 						<li class="col-lg-4 col-md-4 col-sm-4 col-xs-12 wow fadeInLeftSmall"> <a href="#">
 								<p> <img src="/static/utils/uploads/180225/1-1P2251H332647.jpg" alt="" class="img-responsive" /> <span>2018-02-25</span>
 								</p>
@@ -194,7 +201,7 @@
 								<div class="num">
 									<p style="color: #691879"><b>20</b></p>
 								</div>
-								<div class="text">二十年的优质涂料品牌</div>
+								<div class="text">二十年的优质木材品牌</div>
 							</li>
 							<li class="wow fadeInUpSmall">
 								<div class="num">
