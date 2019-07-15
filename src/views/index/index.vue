@@ -163,17 +163,10 @@
 					<h4> <small class="wow fadeInUpSmall">时刻了解最新行业资讯</small> <span class="wow fadeInUpSmall" data-wow-delay="0.2s">NEWS
 							CENTER</span> <b class="wow fadeInUpSmall">新闻动态</b> </h4>
 					<ul>
-
-            <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12 wow fadeInLeftSmall"> <a href="#">
-              <p> <img src="/static/utils/uploads/xinwendongtai/环保等级.jpg" alt="" class="img-responsive" /> <span>2018-02-25</span>
-              </p>
-              <div> <span>环保等级</span> <small>　环保级别是欧洲的环保标准，分为Eo、 E1 、E2三个级别，Eo为国际标准，是非常环保的； E1 为国家级标准；E2级一般只限室外使用。</small> </div>
-            </a> </li>
-
 						<li class="col-lg-4 col-md-4 col-sm-4 col-xs-12 wow fadeInLeftSmall"> <a href="#">
 								<p> <img src="/static/utils/uploads/180225/1-1P2251H332647.jpg" alt="" class="img-responsive" /> <span>2018-02-25</span>
 								</p>
-								<div> <span>木板的介绍</span> <small>　木板就是采用完整的木材制成的木板材。这些板材坚固耐用、纹路自然，是装修中优中之选。此类板材造价高，木板一般按照板材实质名称分类，没有统一的标准规格。</small> </div>
+								<div> <span>环保等级</span> <small>　环保级别是欧洲的环保标准，分为Eo、 E1 、E2三个级别，Eo为国际标准，是非常环保的； E1 为国家级标准；E2级一般只限室外使用。</small> </div>
 							</a> </li>
 
 						<li class="col-lg-4 col-md-4 col-sm-4 col-xs-12 wow fadeInLeftSmall"> <a href="#">
@@ -185,7 +178,7 @@
             <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12 wow fadeInLeftSmall"> <a href="#">
               <p> <img src="/static/utils/uploads/180225/1-1P2251H3114H.jpg" alt="" class="img-responsive" /> <span>2018-02-25</span>
               </p>
-              <div> <span>8月迎来家装旺季 木板承担着重要角色</span> <small>　时至五月，到了家庭装修的旺季，五月份处于春夏交界，天气条件相对适中，装修材料不易变...</small> </div>
+              <div> <span>8月迎来家装旺季 木板承担着重要角色</span> <small>　时至九月，到了家庭装修的旺季，九月份处于夏秋交界，天气条件相对适中，温度也不会太热，装修材料不易变...</small> </div>
             </a> </li>
 
 					</ul>
