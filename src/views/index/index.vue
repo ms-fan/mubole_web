@@ -83,15 +83,15 @@
 				<div class="container">
 					<h4> <small class="wow fadeInUpSmall">ABOUT</small> <span class="wow fadeInUpSmall" data-wow-delay="0..2s">关于我们</span>
 					</h4>
-					<span class="wow fadeInUpSmall">Treezo是千年舟的国际识别名称，Treezo具有“绿色地带”之意，专门设计的字型嵌入舟型图案，犹如一枚木刻印信。标识造型方圆并济，内敛而不保守，发展而不张扬，形成千年舟独特的标识符号。深绿色图形，金色文字，开启了千年舟“自然、经典、永恒”的家居图腾文化
+					<span class="wow fadeInUpSmall">WOODBOLE  木伯乐全屋定制，主要定制衣柜及其配套定制家具直销网,为客户提供家具、衣柜、整体衣柜、榻榻米、书柜等全屋家具定制,及五大免费家具定制测量，板材涵盖生态板、免漆板、细木工板、石膏板、指接板、多层板、负离子板、地板、木门等产品。
 						...</span>
 					<ul class="hidden-xs">
 						<li class="wow fadeInLeftSmall"> <a href="#"> <img src="/static/utils/uploads/180225/1-1P2251132405G.png" alt="" />
-								<b>品牌介绍</b> <small>2014年成功上榜《涂料工业》杂志，是中国建筑外墙装饰涂料推荐使用品牌。</small> </a> </li>
+								<b>品牌介绍</b> <small>木伯乐主要生产和销售各类板材、地板、木门、衣柜、家具、胶粘剂、装饰五金、墙纸等全系列产品，产品销售网络覆盖全国各地。</small> </a> </li>
 						<li class="wow fadeInLeftSmall"> <a href="#"> <img src="/static/utils/uploads/180225/1-1P225113324T1.png" alt="" />
-								<b>发展历程</b> <small>耐候保色性好，由于采用进口原料，确保了涂饰后的色彩鲜艳亮丽，年限持久。</small> </a> </li>
+								<b>发展历程</b> <small>木伯乐：如果你是一匹千里马，那么请做自己的伯乐。</small> </a> </li>
 						<li class="wow fadeInLeftSmall"> <a href="#"> <img src="/static/utils/uploads/180225/1-1P225113303462.png" alt="" />
-								<b>企业资质</b> <small>荣获了“信用（合同）AAA级企业”、“国家装饰装修二级资质企业”、“常州市建材行业产业十强产品”等多项荣誉。</small> </a> </li>
+								<b>企业资质</b> <small>木伯乐全屋定制主要定制衣柜，其中使用板材主要以绿色环保为主，目的是提升产品质量，做更环保的产品，更好的服务于社会。</small> </a> </li>
 					</ul>
 				</div>
 			</div>
