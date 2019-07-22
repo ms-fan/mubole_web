@@ -7,7 +7,6 @@
 					<div class="container">
 						<h1>
 							<router-link to='/'><img src="/static/utils/img/logoaa.png" alt="" /></router-link>
-
             </h1>
 						<ul>
 							<li>
@@ -17,13 +16,13 @@
 								<router-link to='chanpinzhongxin'>产品中心</router-link>
 							</li>
 							<li>
-								<router-link to='gongchenganli'>工程案例</router-link></a>
+								<router-link to='gongchenganli'>工程案例</router-link>
 							</li>
 							<li>
 								<router-link to='zixunzhongxin'>咨询中心</router-link>
 							</li>
 							<li>
-								<router-link to='lianxiwomen'>联系我们</router-link></a>
+								<router-link to='lianxiwomen'>联系我们</router-link>
 							</li>
 						</ul>
 					</div>
@@ -52,7 +51,7 @@
 							<router-link to='chanpinzhongxin'>产品中心</router-link>
 						</li>
 						<li>
-							<router-link to='gongchenganli'>工程案例</router-link></a>
+							<router-link to='gongchenganli'>工程案例</router-link>
 						</li>
 
 						<li>
@@ -60,12 +59,12 @@
 						</li>
 
 						<li>
-							<router-link to='lianxiwomen'>联系我们</router-link></a>
+							<router-link to='lianxiwomen'>联系我们</router-link>
 						</li>
 					</ul>
 				</div>
 			</div>
-			<div v-if='$route.meta.title=="chanpinzhongxin"' class="banner2" style="background-image: url(/static/utils/img/banner1.jpg);"> </div>
+			<div v-if='$route.meta.title=="chanpinzhongxin"||$route.meta.title=="chanpinmingchen"' class="banner2" style="background-image: url(/static/utils/img/banner1.jpg);"> </div>
 			<div v-if='$route.meta.title=="pinpaigushi"' class="banner2" style="background-image: url(/static/utils/img/timg2.jpg);"> </div>
 			<div v-if='$route.meta.title=="gongchenganli"' class="banner2" style="background-image: url(/static/utils/img/3.jpg);"> </div>
 			<div v-if='$route.meta.title=="xinwendongtai"' class="banner2" style="background-image: url(/static/utils/img/banner16.jpg);"> </div>
