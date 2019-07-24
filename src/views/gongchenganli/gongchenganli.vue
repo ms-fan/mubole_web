@@ -1,6 +1,10 @@
 <template>
   <div class="gongchenganli">
+     <div class="img_responsive_box" @click="handleImg" v-if="isShow">
+      <img :src="bigImg" class="img-responsive" alt="响应式图像" @click.stop>
+    </div>
     <!-- info -->
+
     <div id="info" class="info_bg">
       <div class="container">
         <div class="i-case">
@@ -22,8 +26,6 @@
         </ul>
         <div class="page">
           <span class="pageinfo">共 <strong>1</strong>页<strong>{{images.length}}</strong>条记录</span>
-
-
         </div>
       </div>
     </div>
@@ -68,7 +70,9 @@
         }, {
           img: '/static/utils/uploads/gongchenganli/1.png',
           name: '案例展示一'
-        }]
+        }],
+        isShow:false,
+        bigImg:''
       }
     },
 
@@ -84,21 +88,37 @@
 
     methods: {
       handleClick: function(e) {
-        console.log(e)
 
       },
       handleClose: function(img) {
-        console.log(img)
-        this.$router.push({
-        	path: '/bigimgs',
-          query: {
-            img:img
-          }
-        })
+        this.bigImg = img;
+        this.isShow = true
+      },
+      handleImg:function(){
+        this.isShow = false
       }
     }
   };
 </script>
 
 <style lang="less">
+  .img_responsive_box {
+    position: fixed;
+    top: 0px;
+    left: 0rpx;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    background: rgba(0, 0, 0, .8);
+    z-index: 10000;
+
+    .img-responsive {
+      display: inline-block;
+      height: auto;
+      max-width: 100%;
+    }
+  }
 </style>

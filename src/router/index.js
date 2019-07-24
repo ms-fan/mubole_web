@@ -6,7 +6,6 @@ import chanpinmingchen from '@/views/chanpinmingchen/chanpinmingchen'
 import pinpaigushi from '@/views/pinpaigushi/pinpaigushi'
 import xinwendongtai from '@/views/xinwendongtai/xinwendongtai'
 import zixunzhongxin from '@/views/zixunzhongxin/zixunzhongxin'
-import bigimgs from '@/views/bigimgs/bigimgs'
 import jiaruwomen from '@/views/jiaruwomen/jiaruwomen'
 import lianxiwomen from '@/views/lianxiwomen/lianxiwomen'
 import index from '@/views/index/index'
@@ -46,14 +45,6 @@ export default new Router({
 				title: 'chanpinmingchen'
 			}
 		},
-    {
-    	path: '/bigimgs',
-    	name: 'bigimgs',
-    	component: bigimgs,
-    	meta: {
-    		title: 'bigimgs'
-    	}
-    },
     {
     	path: '/chanpinzhongxin',
     	name: 'chanpinzhongxin',
