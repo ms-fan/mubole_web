@@ -22,7 +22,9 @@
 		props: {},
 
 		data() {
-			return {}
+			return {
+
+      }
 		},
 
 		computed: {},
@@ -30,11 +32,11 @@
 		watch: {},
 
 		created() {
-	
+
 		},
 
 		mounted() {
-	
+
 		},
 
 		destroyed() {},
@@ -44,7 +46,7 @@
 				console.log(e)
 
 			},
-	
+
 		}
 	};
 </script>

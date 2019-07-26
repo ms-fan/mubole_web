@@ -67,7 +67,9 @@
 		props: {},
 
 		data() {
-			return {}
+			return {
+
+      }
 		},
 
 		computed: {},
