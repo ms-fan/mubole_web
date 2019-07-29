@@ -319,13 +319,15 @@
 <script>
   import {
     index
-  } from '@/request/api'; // 导入我们的api接口
+  } from '@/request/api';
+  import ElUploadList from 'element-ui/packages/upload/src/upload-list' // 导入我们的api接口
   export default {
     name: '',
 
     mixins: [],
 
     components: {
+      ElUploadList
 
     },
 

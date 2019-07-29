@@ -12,8 +12,11 @@
 							<router-link to='chanpinzhongxin'>产品中心</router-link>
 						</li>
 						<li>
-							<router-link to='chanpinzhongxin'>工程案例</router-link>
+							<router-link to='gongchenganli'>工程案例</router-link>
 						</li>
+            <li>
+              <router-link to='huanbaobancai'>环保板材</router-link>
+            </li>
 						<li>
 							<router-link to='zixunzhongxin'>咨询中心</router-link>
 						</li>

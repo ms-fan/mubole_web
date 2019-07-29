@@ -1987,7 +1987,10 @@ div.page span.disabled {
   display: flex;
   justify-content: space-between;
   position: relative;
-  top: -100px;
+  top: 18px;
+  width: 60%;
+  height: 10%;
+  margin: 0 auto;
 }
 .main_sec1_type_list {
   width: 16%;
@@ -2013,3 +2016,64 @@ div.page span.disabled {
 .main_sec1_type_list_abs_img {
   margin: 10% 0;
 }
+/* huanbaobancai.vue  */
+.wrap {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+html, ul, li, dl, dt, dd, p, h1, h2, h3, h4, h5, h6, img, form, embed, label {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 12px;
+  font-weight: normal;
+}
+
+.product-list {
+  margin-right: -39px;
+  padding-top: 80px;
+  padding-bottom: 88px;
+}
+.pro-title {
+  top: 52px;
+  text-align: center;
+  width: 100%;
+  left: 0;
+  z-index: 11;
+}
+.pro-title .t1 {
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 40px;
+  margin-bottom: 5px;
+  letter-spacing: 8px;
+  font-weight: 600;
+}
+.pro-title .t2 {
+  line-height: 37px;
+  height: 74px;
+  font-size: 30px;
+  font-weight: 200;
+  padding-bottom: 20px;
+}
+.pro-title .t3 {
+  color: #e50012;
+  font-size: 14px;
+  line-height: 32px;
+}
+.product-list.pitem {
+  height: 660px;
+  width: 580px;
+  float: left;
+  background: #fff;
+  cursor: pointer;
+}
+.product-list.item {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 42px;
+  margin-right: 39px;
+}
+
+/* huanbaobancai.vue  */

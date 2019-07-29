@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import gongchenganli from '@/views/gongchenganli/gongchenganli'
+import huanbaobancai from '@/views/huanbaobancai/huanbaobancai'
 import chanpinzhongxin from '@/views/chanpinzhongxin/chanpinzhongxin'
 import chanpinmingchen from '@/views/chanpinmingchen/chanpinmingchen'
 import pinpaigushi from '@/views/pinpaigushi/pinpaigushi'
@@ -37,6 +38,14 @@ export default new Router({
 				title: 'gongchenganli'
 			}
 		},
+    {
+      path: '/huanbaobancai',
+      name: 'huanbaobancai',
+      component: huanbaobancai,
+      meta: {
+        title: 'huanbaobancai'
+      }
+    },
 		{
 			path: '/chanpinmingchen',
 			name: 'chanpinmingchen',
