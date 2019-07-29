@@ -2062,18 +2062,6 @@ html, ul, li, dl, dt, dd, p, h1, h2, h3, h4, h5, h6, img, form, embed, label {
   font-size: 14px;
   line-height: 32px;
 }
-.product-list.pitem {
-  height: 660px;
-  width: 580px;
-  float: left;
-  background: #fff;
-  cursor: pointer;
-}
-.product-list.item {
-  position: relative;
-  overflow: hidden;
-  margin-bottom: 42px;
-  margin-right: 39px;
-}
+
 
 /* huanbaobancai.vue  */

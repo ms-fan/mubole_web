@@ -11,7 +11,7 @@
     </header>
     <div class="hot-search hidden-l">
       <div class="container">
-        <p> <i class="iconfont icon-dianhua"></i> <span>全国咨询热线：</span> <b>400-123-4567</b> </p>
+        <p> <i class="iconfont icon-dianhua"></i> <span> 咨询热线 ：</span> <b>400-123-4567</b> </p>
         <form action="">
           <input type="text" placeholder="-- 输入搜索关键字 --" name="q" />
           <input type="submit" value="搜索" />
@@ -24,10 +24,12 @@
       <div class="com-nav">
         <div class="container">
           <ul>
-            <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12 wow fadeInUpSmall"> <a href="#">
+            <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12 wow fadeInUpSmall">
+              <router-link to='lianxiwomen'>
                 <p><img src="/static/utils/uploads/180225/1-1P225110155Z0.jpg" alt="" class="center-block img-responsive" /></p>
                 <div> <b>关于我们</b> <small>ABOUT</small> </div>
-              </a> </li>
+              </router-link>
+              </li>
             <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12 wow fadeInUpSmall">
               <router-link to='chanpinzhongxin'>
                 <p><img src="/static/utils/uploads/chanpinzhongxin/产品中心1.jpg" alt="" class="center-block img-responsive" /></p>
@@ -112,7 +114,7 @@
         <div class="container">
           <div class="main-title  wow fadeInUpSmall"> <b>产品中心</b> <small class="hidden-l">美是我们的外表，健康是我们的内在，环保是我们的终极追求</small>
             <a href="#">了解更多+</a> </div>
-          <div class="pro-img col-lg-3 col-md-3 col-sm-3 col-sm-12 hidden-xs  wow fadeInLeft"> <img src="/static/utils/img/pdc-l.jpg"
+          <div class="pro-img col-lg-3 col-md-3 col-sm-3 col-sm-12 hidden-xs  wow fadeInLeft"> <img src="/static/utils/img/pdc-l%20(1).jpg"
               class="img-responsive" /> </div>
           <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12  wow fadeInRightSmall">
             <ul class="pro-list">
