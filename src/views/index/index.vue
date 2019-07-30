@@ -29,7 +29,7 @@
                 <p><img src="/static/utils/uploads/180225/1-1P225110155Z0.jpg" alt="" class="center-block img-responsive" /></p>
                 <div> <b>关于我们</b> <small>ABOUT</small> </div>
               </router-link>
-              </li>
+            </li>
             <li class="col-lg-4 col-md-4 col-sm-4 col-xs-12 wow fadeInUpSmall">
               <router-link to='chanpinzhongxin'>
                 <p><img src="/static/utils/uploads/chanpinzhongxin/产品中心1.jpg" alt="" class="center-block img-responsive" /></p>
@@ -46,69 +46,84 @@
         </div>
       </div>
 
-      <div class="main_sec1_type_inner">
-        <div class="main_sec1_type_list" style="top: 0px; opacity: 1;">
-          <img src="http://fq.chendo.com.cn/static/home/images/sec1_1.jpg" alt="" width="100%">
-          <div class="main_sec1_type_list_abs">
-            <div class="main_sec1_type_list_abs_img">
-              <img src="http://fq.chendo.com.cn/static/home/images/sec1_1.png" alt="">
+
+      <div class="list_box">
+        <div class="row b_red">
+          <div class="col-xs-6 col-sm-4 col-md-4 col-lg-2 b_red pre">
+            <div class="pas">
+              <img src="http://fq.chendo.com.cn/static/home/images/sec1_1.jpg" alt="" class="list_box_img" />
+              <div class="list_box_bg">
+                <div class="dis_center">
+                  <img src="http://fq.chendo.com.cn/static/home/images/sec1_1.png" alt="" class="list_box_bg_img">
+                  <h3 style="margin-top: 1rem;">免费测量</h3>
+                  <p>设计全程陪同 <br>给你精心规划</p>
+                </div>
+              </div>
             </div>
-            <h5>免费测量</h5>
-            <p>设计全程陪同 <br>给你精心规划</p>
           </div>
-        </div>
-        <div class="main_sec1_type_list" style="top: 0px; opacity: 1;">
-          <img src="http://fq.chendo.com.cn/static/home/images/sec1_2.jpg" alt="" width="100%">
-          <div class="main_sec1_type_list_abs">
-            <div class="main_sec1_type_list_abs_img">
-              <img src="http://fq.chendo.com.cn/static/home/images/sec1_2.png" alt="">
+          <div class="col-xs-6 col-sm-4 col-md-4 col-lg-2 b_red pre">
+            <div class="pas">
+              <img src="http://fq.chendo.com.cn/static/home/images/sec1_2.jpg" alt="" class="list_box_img" />
+              <div class="list_box_bg">
+                <div class="dis_center">
+                  <img src="http://fq.chendo.com.cn/static/home/images/sec1_2.png" alt="" class="list_box_bg_img">
+                  <h3 style="margin-top: 1rem;">免费设计</h3>
+                  <p>省千元设计费 <br>找满意方案</p>
+                </div>
+              </div>
             </div>
-            <h5>免费设计</h5>
-            <p>省千元设计费 <br>找满意方案</p>
           </div>
-        </div>
-        <div class="main_sec1_type_list" style="top: 0px; opacity: 1;">
-          <img src="http://fq.chendo.com.cn/static/home/images/sec1_3.jpg" alt="" width="100%">
-          <div class="main_sec1_type_list_abs">
-            <div class="main_sec1_type_list_abs_img">
-              <img src="http://fq.chendo.com.cn/static/home/images/sec1_3.png" alt="">
+          <div class="col-xs-6 col-sm-4 col-md-4 col-lg-2 b_red pre">
+            <div class="pas">
+              <img src="http://fq.chendo.com.cn/static/home/images/sec1_3.jpg" alt="" class="list_box_img" />
+              <div class="list_box_bg">
+                <div class="dis_center">
+                  <img src="http://fq.chendo.com.cn/static/home/images/sec1_3.png" alt="" class="list_box_bg_img">
+                  <h3 style="margin-top: 1rem;">免费报价</h3>
+                  <p>装修精算师 <br>为你精打细算</p>
+                </div>
+              </div>
             </div>
-            <h5>免费报价</h5>
-            <p>装修精算师 <br>为你精打细算</p>
           </div>
-        </div>
-        <div class="main_sec1_type_list" style="top: 0px; opacity: 1;">
-          <img src="http://fq.chendo.com.cn/static/home/images/sec1_4.jpg" alt="" width="100%">
-          <div class="main_sec1_type_list_abs">
-            <div class="main_sec1_type_list_abs_img">
-              <img src="http://fq.chendo.com.cn/static/home/images/sec1_4.png" alt="">
+          <div class="col-xs-6 col-sm-4 col-md-4 col-lg-2 b_red pre">
+            <div class="pas">
+              <img src="http://fq.chendo.com.cn/static/home/images/sec1_4.jpg" alt="" class="list_box_img" />
+              <div class="list_box_bg">
+                <div class="dis_center">
+                  <img src="http://fq.chendo.com.cn/static/home/images/sec1_4.png" alt="" class="list_box_bg_img">
+                  <h3 style="margin-top: 1rem;">配送到家</h3>
+
+                  <p>专车配送 <br>省时省心</p>
+                </div>
+              </div>
             </div>
-            <h5>配送到家</h5>
-            <p>专车配送 <br>省时省心</p>
           </div>
-        </div>
-        <div class="main_sec1_type_list" style="top: 0px; opacity: 1;">
-          <img src="http://fq.chendo.com.cn/static/home/images/sec1_5.jpg" alt="" width="100%">
-          <div class="main_sec1_type_list_abs">
-            <div class="main_sec1_type_list_abs_img">
-              <img src="http://fq.chendo.com.cn/static/home/images/sec1_5.png" alt="">
+          <div class="col-xs-6 col-sm-4 col-md-4 col-lg-2 b_red pre">
+            <div class="pas">
+              <img src="http://fq.chendo.com.cn/static/home/images/sec1_5.jpg" alt="" class="list_box_img" />
+              <div class="list_box_bg">
+                <div class="dis_center">
+                  <img src="http://fq.chendo.com.cn/static/home/images/sec1_5.png" alt="" class="list_box_bg_img">
+                  <h3 style="margin-top: 1rem;">免费安装</h3>
+                  <p>预约上门 <br>现场安装</p>
+                </div>
+              </div>
             </div>
-            <h5>免费安装</h5>
-            <p>预约上门 <br>现场安装</p>
           </div>
-        </div>
-        <div class="main_sec1_type_list" style="top: 0px; opacity: 1;">
-          <img src="http://fq.chendo.com.cn/static/home/images/sec1_6.jpg" alt="" width="100%">
-          <div class="main_sec1_type_list_abs">
-            <div class="main_sec1_type_list_abs_img">
-              <img src="http://fq.chendo.com.cn/static/home/images/sec1_6.png" alt="">
+          <div class="col-xs-6 col-sm-4 col-md-4 col-lg-2 b_red pre">
+            <div class="pas">
+              <img src="http://fq.chendo.com.cn/static/home/images/sec1_6.jpg" alt="" class="list_box_img" />
+              <div class="list_box_bg">
+                <div class="dis_center">
+                  <img src="http://fq.chendo.com.cn/static/home/images/sec1_6.png" alt="" class="list_box_bg_img">
+                  <h3 style="margin-top: 1rem;">便捷服务</h3>
+                  <p><br>便捷服务</p>
+                </div>
+              </div>
             </div>
-            <h5>便捷服务</h5>
-            <p> <br> 更加放心</p>
           </div>
         </div>
       </div>
-
       <!--product-->
       <div class="product">
         <div class="container">
@@ -376,5 +391,37 @@
 </script>
 
 <style lang="less">
+  .pre {
+    position: relative;
+    margin-bottom: 1rem
+  }
+  .dis_center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1rem;
+  }
 
+  .list_box {
+
+
+    &_img {
+      width: 13rem;
+      height: 15rem;
+    }
+
+    &_bg {
+      width: 13rem;
+      height: 15rem;
+      position: absolute;
+      top: 0px;
+      background: rgba(255, 255, 255, 0.6);
+      box-shadow: 6px 6px 4px #999999;
+
+      &_img {
+        width: 50%;
+         height: 6.5rem;
+      }
+    }
+  }
 </style>
