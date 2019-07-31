@@ -47,7 +47,7 @@
       </div>
 
 
-      <div class="list_box">
+      <div class="list_box wow fadeInLeft">
         <div class="row b_red">
           <div class="col-xs-6 col-sm-4 col-md-4 col-lg-2 b_red pre">
             <div class="pas">
@@ -395,6 +395,7 @@
     position: relative;
     margin-bottom: 1rem
   }
+
   .dis_center {
     display: flex;
     flex-direction: column;
@@ -403,11 +404,18 @@
   }
 
   .list_box {
-
-
     &_img {
       width: 13rem;
       height: 15rem;
+    }
+
+    &_bg:hover {
+      transition: all .4s;
+      -moz-transition: all .4s;
+      -webkit-transition: all .4s;
+      -o-transition: all .4s;
+      transform: scale(1);
+      box-shadow: 3px 3px 2px #999999;
     }
 
     &_bg {
@@ -418,9 +426,10 @@
       background: rgba(255, 255, 255, 0.6);
       box-shadow: 6px 6px 4px #999999;
 
+
       &_img {
         width: 50%;
-         height: 6.5rem;
+        height: 6.5rem;
       }
     }
   }
