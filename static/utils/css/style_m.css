@@ -1,11 +1,40 @@
 /*最大768px*/
 @media (max-width: 768px) {
-   .list_box {
+  .bao_big_bg_font1 {
+    font-size: 14px;
+    line-height: 30px;
+    margin-bottom: 5px;
+    letter-spacing: 8px;
+    font-weight: 600;
+  }
+
+  .bao_big_bg_font3 {
+    color: #e50012;
+    font-size: 12px;
+    line-height: 30px;
+  }
+
+  .bao_big_bg_img {
+    width: 100%;
+    height: 158px;
+  }
+
+  .list_box {
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
   }
+
+  .bao_big_img {
+    height: 263px;
+
+  }
+
+  .bao_big_box_ke {
+    font-size: 18px;
+  }
+
   .hidden-l {
     display: none !important;
   }
@@ -463,9 +492,38 @@
 
 /*768px至992px*/
 @media (min-width: 768px) and (max-width: 992px) {
-  .list_box{
+  .bao_big_bg_font1 {
+    font-size: 14px;
+    line-height: 30px;
+    margin-bottom: 5px;
+    letter-spacing: 8px;
+    font-weight: 600;
+  }
+
+  .bao_big_bg_font3 {
+    color: #e50012;
+    font-size: 12px;
+    line-height: 30px;
+  }
+
+  .bao_big_bg_img {
+    width: 100%;
+    height: 420px;
+  }
+
+  .bao_big_box_ke {
+    font-size: 36px;
+  }
+
+  .list_box {
     padding: 0 10%;
   }
+
+  .bao_big_img {
+    height: 500px;
+
+  }
+
   .hidden-l {
     display: none !important;
   }
@@ -617,9 +675,46 @@
 
 /*992px至1200pox*/
 @media (min-width: 992px) and (max-width: 1200px) {
-  .list_box{
+  .bao_big_bg_font2 {
+    line-height: 37px;
+    height: 74px;
+    font-size: 30px;
+    font-weight: 200;
+    padding-bottom: 20px;
+  }
+
+  .bao_big_bg_font1 {
+    font-size: 24px;
+    line-height: 40px;
+    margin-bottom: 5px;
+    letter-spacing: 8px;
+    font-weight: 600;
+  }
+
+  .bao_big_bg_font3 {
+    color: #e50012;
+    font-size: 14px;
+    line-height: 32px;
+  }
+
+  .bao_big_bg_img {
+    width: 100%;
+    height: 420px;
+  }
+
+  .bao_big_box_ke {
+    font-size: 36px;
+  }
+
+  .list_box {
     padding: 0 10%;
   }
+
+  .bao_big_img {
+    height: 500px;
+
+  }
+
   .hidden-l {
     display: block;
   }
@@ -684,9 +779,45 @@
 
 /*最小1200px*/
 @media (min-width: 1200px) {
-  .list_box{
+  .bao_big_bg_font1 {
+    font-size: 24px;
+    line-height: 40px;
+    margin-bottom: 5px;
+    letter-spacing: 8px;
+    font-weight: 600;
+  }
+
+  .bao_big_bg_font2 {
+    line-height: 37px;
+    height: 74px;
+    font-size: 30px;
+    font-weight: 200;
+    padding-bottom: 20px;
+  }
+
+  .bao_big_bg_font3 {
+    color: #e50012;
+    font-size: 14px;
+    line-height: 32px;
+  }
+
+  .bao_big_bg_img {
+    width: 100%;
+    height: 420px;
+  }
+
+  .bao_big_box_ke {
+    font-size: 36px;
+  }
+
+  .list_box {
     padding: 0 10%;
   }
+
+  .bao_big_img {
+    height: 500px;
+  }
+
   .hidden-l {
     display: block;
   }
