@@ -1,50 +1,50 @@
 function listImage0() {
   let listImage0 = [{
-      img: 'http://www.qhtwood.com/uploads/190624/1-1Z624103R2M5.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/生态板/1.jpg',
       name: '浅布纹',
     },
     {
-      img: 'http://www.qhtwood.com/uploads/190624/1-1Z624103Z45I.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/生态板/2.jpg',
       name: '斜布纹（淡黄色）',
     },
     {
-      img: 'http://www.qhtwood.com/uploads/190624/1-1Z624103K3a1.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/生态板/3.jpg',
       name: '斜布纹（白色）',
     },
     {
-      img: 'http://www.qhtwood.com/uploads/190624/1-1Z624103F4A9.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/生态板/4.jpg',
       name: '慕斯胡桃',
     },
     {
-      img: 'http://www.qhtwood.com/uploads/190624/1-1Z62410361A03.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/生态板/5.jpg',
       name: '山纹尤加利',
     },
     {
-      img: 'http://www.qhtwood.com/uploads/180906/1-1PZ6091U0225.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/生态板/6.jpg',
       name: '烈日红木',
     },
     {
-      img: 'http://www.qhtwood.com/uploads/180906/1-1PZ6091Kb37.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/生态板/7.jpg',
       name: '紫云杉木',
     },
     {
-      img: 'http://www.qhtwood.com/uploads/180906/1-1PZ6091I1132.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/生态板/8.jpg',
       name: '栉风沐雨',
     },
     {
-      img: 'http://www.qhtwood.com/uploads/180906/1-1PZ6091F2J2.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/生态板/9.jpg',
       name: '雨丝橡木',
     },
     {
-      img: 'http://www.qhtwood.com/uploads/180906/1-1PZ609161V13.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/生态板/10.jpg',
       name: '银丝胡桃',
     },
     {
-      img: 'http://www.qhtwood.com/uploads/180906/1-1PZ6091532538.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/生态板/11.jpg',
       name: '忆江月负离子',
     },
     {
-      img: 'http://www.qhtwood.com/uploads/180906/1-1PZ6091503344.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/生态板/12.jpg',
       name: '香味柏木',
     },
   ];
@@ -53,48 +53,80 @@ function listImage0() {
 
 function listImage1() {
   let listImage1 = [{
-      img: 'http://www.qhtwood.com/uploads/190725/1-1ZH511053U41.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/9.jpg',
       name: '拉手'
     }, {
-      img: 'http://www.qhtwood.com/uploads/190725/1-1ZH5110520W3.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/8.jpg',
       name: '拉手'
     },
     {
-      img: 'http://www.qhtwood.com/uploads/190725/1-1ZH511045aL.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/7.jpg',
       name: '拉手'
     }, {
-      img: 'http://www.qhtwood.com/uploads/190725/1-1ZH5110441558.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/6.jpg',
       name: '拉手'
     },
     {
-      img: 'http://www.qhtwood.com/uploads/190725/1-1ZH5110422256.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/5.jpg',
       name: '拉手'
     }, {
-      img: 'http://www.qhtwood.com/uploads/190725/1-1ZH511035N45.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/4.jpg',
       name: '拉手'
     },
     {
-      img: 'http://www.qhtwood.com/uploads/190725/1-1ZH511033a31.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/3.jpg',
       name: '拉手'
     }, {
-      img: 'http://www.qhtwood.com/uploads/190725/1-1ZH5110321P0.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/2.jpg',
       name: '拉手'
     },
     {
 
-      img: 'http://www.qhtwood.com/uploads/190725/1-1ZH5110301203.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/1.jpg',
       name: '拉手'
     },
     {
-      img: 'http://www.qhtwood.com/uploads/190725/1-1ZH5110244G4.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/10.jpg',
       name: '拉手'
     },
     {
-      img: 'http://www.qhtwood.com/uploads/190725/1-1ZH5110224508.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/11.jpg',
       name: '拉手'
     },
     {
-      img: 'http://www.qhtwood.com/uploads/190725/1-1ZH5110206406.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/12.jpg',
+      name: '拉手'
+    },
+    {
+      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/13.jpg',
+      name: '拉手'
+    },
+    {
+      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/14.jpg',
+      name: '拉手'
+    },
+    {
+      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/15.jpg',
+      name: '拉手'
+    },
+    {
+      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/16.jpg',
+      name: '拉手'
+    },
+    {
+      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/17.jpg',
+      name: '拉手'
+    },
+    {
+      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/18.jpg',
+      name: '拉手'
+    },
+    {
+      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/19.jpg',
+      name: '拉手'
+    },
+    {
+      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/20.jpg',
       name: '拉手'
     },
   ];
@@ -103,46 +135,54 @@ function listImage1() {
 
 function listImage2() {
   let listImage2 = [{
-      img: 'http://www.qhtwood.com/uploads/180910/1-1P9100U9363C.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/线条/9.jpg',
       name: '勾线'
     }, {
-      img: 'http://www.qhtwood.com/uploads/180910/1-1P9100UA1U2.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/线条/8.jpg',
       name: '大顶角线'
     },
     {
-      img: 'http://www.qhtwood.com/uploads/180910/1-1P9100U9363C.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/线条/7.jpg',
       name: 'L型门边线'
     },
     {
-      img: 'http://www.qhtwood.com/uploads/181028/1-1Q02Q53223b0.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/线条/6.jpg',
       name: '装饰线条'
     },
     {
-      img: 'http://www.qhtwood.com/uploads/180910/1-1P9100Z34T07.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/线条/5.jpg',
       name: '小内扣线'
     },
     {
-      img: 'http://www.qhtwood.com/uploads/180910/1-1P9100Z321323.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/线条/4.jpg',
       name: '上下顶线'
     },
     {
-      img: 'http://www.qhtwood.com/uploads/180910/1-1P9100Z21W35.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/线条/3.jpg',
       name: '内嵌线'
     },
     {
-      img: 'http://www.qhtwood.com/uploads/180910/1-1P9100Z1495Y.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/线条/2.jpg',
       name: '门套线'
     },
     {
-      img: 'http://www.qhtwood.com/uploads/180910/1-1P9100Z10Ea.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/线条/1.jpg',
       name: '罗马柱头'
     },
     {
-      img: 'http://www.qhtwood.com/uploads/180910/1-1P9100Z03N18.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/线条/10.jpg',
       name: '罗马柱'
     },
     {
-      img: 'http://www.qhtwood.com/uploads/180910/1-1P9100U9363C.jpg',
+      img: '/static/utils/uploads/chanpinzhongxin/线条/11.jpg',
+      name: '卡条'
+    },
+    {
+      img: '/static/utils/uploads/chanpinzhongxin/线条/12.jpg',
+      name: '卡条'
+    },
+    {
+      img: '/static/utils/uploads/chanpinzhongxin/线条/13.jpg',
       name: '卡条'
     }
   ];
@@ -151,17 +191,20 @@ function listImage2() {
 
 function listImage3() {
   let listImage3 = [{
-    img: 'http://www.qhtwood.com/uploads/180910/1-1P9100U434303.jpg',
+    img: '/static/utils/uploads/chanpinzhongxin/胶水/1.jpg',
     name: '白乳胶'
   }, {
-    img: 'http://www.qhtwood.com/uploads/180910/1-1P9100U356302.jpg',
+    img: '/static/utils/uploads/chanpinzhongxin/胶水/2.jpg',
     name: '免钉胶'
   }];
   return JSON.stringify(listImage3);
 }
 function listImage4() {
   let listImage4 = [{
-    img: 'http://www.qhtwood.com/uploads/190305/1-1Z30519221I39.jpg',
+    img: '/static/utils/uploads/chanpinzhongxin/石膏板/2.jpg',
+    name: '石膏板'
+  },{
+    img: '/static/utils/uploads/chanpinzhongxin/石膏板/1.jpg',
     name: '石膏板'
   }];
   return JSON.stringify(listImage4);

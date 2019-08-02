@@ -2022,13 +2022,7 @@ div.page span.disabled {
   margin: 0 auto;
 }
 
-html, ul, li, dl, dt, dd, p, h1, h2, h3, h4, h5, h6, img, form, embed, label {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 12px;
-  font-weight: normal;
-}
+
 
 .product-list {
   margin-right: -39px;

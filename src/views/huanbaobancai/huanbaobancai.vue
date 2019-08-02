@@ -116,6 +116,7 @@
             </div>
     <br/>
           <div class="product-list">
+            <ul class="pro-list">
             <li class="col-lg-4 col-md-4 col-sm-4 col-xs-6" v-for="(item,index) in images" :key="index"  @click.stop="handleClose(item.img)">
                <div class="item" data-type="item.t1">
                 <div class="pro-title">
@@ -126,11 +127,15 @@
               </div>
               <div class="img"><img :src="item.img" :alt="item.img"  width="580" height="420"/></div>
             </li>
+            </ul>
           </div>
         <div class="page">
           <span class="pageinfo">共 <strong>1</strong>页<strong>{{images.length}}</strong>条记录</span>
         </div>
       </div>
+
+
+
 </template>
 
 <script>
