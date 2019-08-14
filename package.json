@@ -14,9 +14,9 @@
     "build": "node build/build.js"
   },*/
   "scripts": {
-    "dev": "node build/webpack.dev.conf.js --env=local",
-    "start": "node build/webpack.dev.conf.js --env=local",
-    "build": "node build/build.js --env=publish",
+    "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
+    "start": "node build/webpack.dev.conf.js",
+    "build": "node build/build.js",
     "build-local": "node build/build.js"
   },
   "dependencies": {
