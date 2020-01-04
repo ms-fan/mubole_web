@@ -33,6 +33,9 @@
 							<li style="clear: both;margin-right: 0"></li>
 							<li>传真：+86-010-57348001</li>
 							<li>地址：江西省九江市修水县</li>
+              <li style="clear: both;margin-right: 0"></li>
+              <li class="f_b"><a href="http://beian.miit.gov.cn">Copyright &copy; 2018-2020 木伯乐全屋定制 版权所有&nbsp;&nbsp;赣ICP备19007009号
+				</a></li>
 						</ol>
 						<ul>
 							<li><a href="#"><img src="/static/utils/img/f1.png" alt="" />关于我们<i class="iconfont icon-arrow-right"></i></a></li>
@@ -51,8 +54,8 @@
 					</div>
 				</div>
 			</div>
-			<p class="f-bottom2 visible-xs"> Copyright &copy; 2018-2020 木伯乐全屋定制 版权所有 <a href="#" target="_blank">赣ICP备19007009号
-				</a><span><a href="#" target="_blank"></a></span> </p>
+			<p class="f-bottom2 visible-xs f_b"> <a href="http://beian.miit.gov.cn">Copyright &copy; 2018-2020 木伯乐全屋定制 版权所有  赣ICP备19007009号
+				</a></p>
 		</footer>
 	</div>
 </template>
@@ -104,4 +107,7 @@
 </script>
 
 <style lang="less">
+  .f_b a{
+    font-weight: bold;
+  }
 </style>
