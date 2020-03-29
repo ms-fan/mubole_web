@@ -3,7 +3,7 @@
 		<footer>
 			<div class="container hidden-xs">
 				<div class="f-top">
-					<h1><a href="/"><img src="/static/utils/img/mubole.png" alt="" /></a></h1>
+					<h1><a href="/"><img src="/static/utils/img/logo3.png" alt="" /></a></h1>
 					<ul>
 						<li>
 							<router-link to='/'>首页</router-link>
@@ -32,7 +32,7 @@
 							<li>邮箱：fanmanfu@163.com</li>
 							<li style="clear: both;margin-right: 0"></li>
 							<li>传真：+86-010-57348001</li>
-							<li>地址：江西省九江市修水县</li>
+							<li>地址：浙江省杭州市滨江区</li>
               <li style="clear: both;margin-right: 0"></li>
               <li class="f_b"><a href="http://beian.miit.gov.cn">Copyright &copy; 2018-2020 木伯乐全屋定制 版权所有&nbsp;&nbsp;赣ICP备19007009号
 				</a></li>

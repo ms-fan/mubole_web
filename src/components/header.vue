@@ -6,7 +6,7 @@
 				<div class="h-nav">
 					<div class="container">
 						<h1>
-							<router-link to='/'><img src="/static/utils/img/logoaa.png" alt="" /></router-link>
+							<router-link to='/'><img src="/static/utils/img/logo3.png" alt="" /></router-link>
             </h1>
 						<ul>
 							<li>
@@ -36,7 +36,7 @@
 			<!--手机导航条-->
 			<div class="hidden-g">
 				<div class="h-nav-g">
-					<h1><a href="/"><img src="/static/utils/img/logoaa.png" alt="" /></a></h1>
+					<h1><a href="/"><img src="/static/utils/img/logo3.png" alt="" /></a></h1>
 					<i class="btn_i header_btn_i"><small></small></i>
 				</div>
 				<div class="ul-small">
