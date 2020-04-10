@@ -15,7 +15,7 @@
 							<p>
 								&nbsp;&nbsp;电子邮箱：fanmanfu@126.com</p>
 							<p>
-								&nbsp;&nbsp;地址：江西省九江市修水县</p>
+								&nbsp;&nbsp;地址：浙江省杭州市</p>
 							<p>
 								&nbsp;</p>
 						</div>
