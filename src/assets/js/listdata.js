@@ -1,15 +1,15 @@
 function listImage0() {
   let listImage0 = [{
       img: '/static/utils/uploads/chanpinzhongxin/生态板/实木樱桃.jpg',
-      name: '浅布纹',
+      name: '实木樱桃',
     },
     {
       img: '/static/utils/uploads/chanpinzhongxin/生态板/2.jpg',
-      name: '斜布纹（淡黄色）',
+      name: '斜布纹',
     },
     {
       img: '/static/utils/uploads/chanpinzhongxin/生态板/水木清华.jpg',
-      name: '斜布纹（白色）',
+      name: '水木清华',
     },
     {
       img: '/static/utils/uploads/chanpinzhongxin/生态板/4.jpg',
@@ -17,7 +17,7 @@ function listImage0() {
     },
     {
       img: '/static/utils/uploads/chanpinzhongxin/生态板/薄冰细雨.jpg',
-      name: '山纹尤加利',
+      name: '薄冰细雨',
     },
     {
       img: '/static/utils/uploads/chanpinzhongxin/生态板/6.jpg',
