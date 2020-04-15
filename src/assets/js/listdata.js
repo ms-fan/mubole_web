@@ -4,28 +4,36 @@ function listImage0() {
       name: '实木樱桃',
     },
     {
-      img: '/static/utils/uploads/chanpinzhongxin/生态板/2.jpg',
-      name: '斜布纹',
+      img: '/static/utils/uploads/chanpinzhongxin/生态板/一叶知秋.jpg',
+      name: '一叶知秋',
+    },
+    {
+      img: '/static/utils/uploads/chanpinzhongxin/生态板/细布纹.jpg',
+      name: '细布纹',
     },
     {
       img: '/static/utils/uploads/chanpinzhongxin/生态板/水木清华.jpg',
       name: '水木清华',
     },
     {
-      img: '/static/utils/uploads/chanpinzhongxin/生态板/4.jpg',
-      name: '慕斯胡桃',
+      img: '/static/utils/uploads/chanpinzhongxin/生态板/莫克布纹.jpg',
+      name: '莫克布纹',
     },
     {
       img: '/static/utils/uploads/chanpinzhongxin/生态板/薄冰细雨.jpg',
       name: '薄冰细雨',
     },
     {
-      img: '/static/utils/uploads/chanpinzhongxin/生态板/6.jpg',
-      name: '烈日红木',
+      img: '/static/utils/uploads/chanpinzhongxin/生态板/暖白.jpg',
+      name: '暖白',
     },
     {
-      img: '/static/utils/uploads/chanpinzhongxin/生态板/7.jpg',
-      name: '紫云杉木',
+      img: '/static/utils/uploads/chanpinzhongxin/生态板/苏香桐.jpg',
+      name: '苏香桐',
+    },
+    {
+      img: '/static/utils/uploads/chanpinzhongxin/生态板/银丝胡桃.jpg',
+      name: '银丝胡桃',
     },
     {
       img: '/static/utils/uploads/chanpinzhongxin/生态板/8.jpg',
@@ -36,16 +44,8 @@ function listImage0() {
       name: '雨丝橡木',
     },
     {
-      img: '/static/utils/uploads/chanpinzhongxin/生态板/10.jpg',
-      name: '银丝胡桃',
-    },
-    {
       img: '/static/utils/uploads/chanpinzhongxin/生态板/11.jpg',
       name: '忆江月负离子',
-    },
-    {
-      img: '/static/utils/uploads/chanpinzhongxin/生态板/12.jpg',
-      name: '香味柏木',
     },
   ];
   return JSON.stringify(listImage0);
@@ -53,11 +53,11 @@ function listImage0() {
 
 function listImage1() {
   let listImage1 = [{
-      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/9.jpg',
-      name: '拉手'
+      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/101.jpg',
+      name: '拉手101'
     }, {
-      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/8.jpg',
-      name: '拉手'
+      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/102.jpg',
+      name: '拉手102'
     },
     {
       img: '/static/utils/uploads/chanpinzhongxin/五金辅材/7.jpg',
@@ -98,20 +98,20 @@ function listImage1() {
       name: '拉手'
     },
     {
-      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/13.jpg',
-      name: '拉手'
+      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/103.jpg',
+      name: '拉手103'
     },
     {
       img: '/static/utils/uploads/chanpinzhongxin/五金辅材/14.jpg',
       name: '拉手'
     },
     {
-      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/15.jpg',
-      name: '拉手'
+      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/105.jpg',
+      name: '拉手105'
     },
     {
-      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/16.jpg',
-      name: '拉手'
+      img: '/static/utils/uploads/chanpinzhongxin/五金辅材/104.jpg',
+      name: '拉手104'
     },
     {
       img: '/static/utils/uploads/chanpinzhongxin/五金辅材/17.jpg',
